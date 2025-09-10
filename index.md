@@ -13,7 +13,7 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 
 ## Skills
 
-- **Identity and Access Management (IAM):** [AWS IAM Lab](https://github.com/whozdae/aws-iam-lab)  
+- **Identity and Access Management (IAM):** [AWS IAM Lab](https://github.com/whozdae/AWS-IAM-)  
 - **Scripting and Automation:** [Python Keylogger](https://github.com/whozdae/python-keylogger)  
 - **Virtualization and Enterprise Environment Setup:** [Home Virtual Enterprise](https://github.com/whozdae/home-virtual-enterprise)  
 - **SIEM Implementation and Log Analysis:** [Home SOC with Azure Sentinel](https://github.com/whozdae/home-soc-azure-sentinel)  
