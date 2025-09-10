@@ -27,6 +27,7 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -43,11 +44,13 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 <div>
     <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <div>
+    
 ### Certifications
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <div>
+    
 ### Projects
 - AWS IAM Lab
 - Python Keylogger
