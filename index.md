@@ -12,28 +12,32 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 
 
 ## Skills
-| Skill                                         | Associated Project                                                                 |
-|-----------------------------------------------|------------------------------------------------------------------------------------|
-| Identity and Access Management (IAM)          | <a href="https://github.com/whozdae/aws-iam-lab">AWS IAM Lab</a>                   |
-| Scripting and Automation                      | <a href="https://github.com/whozdae/python-keylogger">Python Keylogger</a>         |
-| Virtualization and Enterprise Environment Setup | <a href="https://github.com/whozdae/home-virtual-enterprise">Home Virtual Enterprise</a> |
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/whozdae/home-soc-azure-sentinel">Home SOC with Azure Sentinel</a> |
-| Malware Analysis and Reverse Engineering      | <a href="https://github.com/whozdae/flarevm-malware-analysis">FlareVM Malware Analysis</a> |
+| Skills                                         | Associated Project                                 |
+|-----------------------------------------------|----------------------------------------------------|
+| Identity and Access Management (IAM)          | [AWS IAM Lab](https://github.com/whozdae/aws-iam-lab)                   |
+| Scripting and Automation                      | [Python Keylogger](https://github.com/whozdae/python-keylogger)         |
+| Virtualization and Enterprise Environment Setup | [Home Virtual Enterprise](https://github.com/whozdae/home-virtual-enterprise) |
+| SIEM Implementation and Log Analysis          | [Home SOC with Azure Sentinel](https://github.com/whozdae/home-soc-azure-sentinel) |
+| Malware Analysis and Reverse Engineering      | [FlareVM Malware Analysis](https://github.com/whozdae/flarevm-malware-analysis) |
+
 
 ## Tools
 
 ### Network
+
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 ### Endpoint
+
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
+
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -41,9 +45,9 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 
 ### Cloud
 
-</div>
+<div>
     <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
+<div>
 
 ### Certifications
 
