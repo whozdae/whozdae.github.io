@@ -12,13 +12,13 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 
 
 ## Skills
-| Skill                                         | Associated Project                                                                 |
-|-----------------------------------------------|------------------------------------------------------------------------------------|
-| Identity and Access Management (IAM)          | <a href="https://github.com/whozdae/aws-iam-lab">AWS IAM Lab</a>                   |
-| Scripting and Automation                      | <a href="https://github.com/whozdae/python-keylogger">Python Keylogger</a>         |
-| Virtualization and Enterprise Environment Setup | <a href="https://github.com/whozdae/home-virtual-enterprise">Home Virtual Enterprise</a> |
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/whozdae/home-soc-azure-sentinel">Home SOC with Azure Sentinel</a> |
-| Malware Analysis and Reverse Engineering      | <a href="https://github.com/whozdae/flarevm-malware-analysis">FlareVM Malware Analysis</a> |
+
+- **Identity and Access Management (IAM):** [AWS IAM Lab](https://github.com/whozdae/aws-iam-lab)  
+- **Scripting and Automation:** [Python Keylogger](https://github.com/whozdae/python-keylogger)  
+- **Virtualization and Enterprise Environment Setup:** [Home Virtual Enterprise](https://github.com/whozdae/home-virtual-enterprise)  
+- **SIEM Implementation and Log Analysis:** [Home SOC with Azure Sentinel](https://github.com/whozdae/home-soc-azure-sentinel)  
+- **Malware Analysis and Reverse Engineering:** [FlareVM Malware Analysis](https://github.com/whozdae/flarevm-malware-analysis)  
+
 
 ## Tools
 
