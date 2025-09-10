@@ -59,8 +59,3 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 - Home Virtual Enterprise
 - Home SOC with Azure Sentinel
 - FlareVM Malware Analysis
-
-  
-```
-The final element.
-```
