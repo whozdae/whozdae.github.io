@@ -40,15 +40,16 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 </div>
 
 ### Cloud
+
 </div>
-  <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 ### Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
 <div>
   
@@ -58,5 +59,7 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 - Home Virtual Enterprise
 - Home SOC with Azure Sentinel
 - FlareVM Malware Analysis
+
+  
 
   
