@@ -14,9 +14,9 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 ## Skills
 
 - **Identity and Access Management (IAM):** [AWS IAM Lab](https://github.com/whozdae/AWS-IAM-)  
-- **Scripting and Automation:** [Python Keylogger](https://github.com/whozdae/python-keylogger)  
+- **Scripting and Automation:** [APK with Discord Webhook](https://github.com/whozdae/APK-w-Discord-Webhook)
 - **Virtualization and Enterprise Environment Setup:** [Home Virtual Enterprise](https://github.com/whozdae/home-virtual-enterprise)  
-- **SIEM Implementation and Log Analysis:** [Home SOC with Azure Sentinel](https://github.com/whozdae/home-soc-azure-sentinel)  
+- **SIEM Implementation and Log Analysis:** [Home SOC in Azure](https://github.com/whozdae/Home-SOC-in-Azure)  
 - **Malware Analysis and Reverse Engineering:** [FlareVM Malware Analysis](https://github.com/whozdae/flarevm-malware-analysis)  
 
 
@@ -31,13 +31,13 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+<div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+<div>
 
 ### Cloud
 
@@ -46,12 +46,14 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 <div>
     
 ### Certifications
+
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <div>
     
 ### Projects
+
 - AWS IAM Lab
 - Python Keylogger
 - Home Virtual Enterprise
