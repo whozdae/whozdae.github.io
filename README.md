@@ -12,34 +12,6 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 
 
 ## Skills
-| Skills                                         | Associated Project                                 |
-|-----------------------------------------------|----------------------------------------------------|
-| Identity and Access Management (IAM)          | [AWS IAM Lab](https://github.com/whozdae/aws-iam-lab)                   |
-| Scripting and Automation                      | [Python Keylogger](https://github.com/whozdae/python-keylogger)         |
-| Virtualization and Enterprise Environment Setup | [Home Virtual Enterprise](https://github.com/whozdae/home-virtual-enterprise) |
-| SIEM Implementation and Log Analysis          | [Home SOC with Azure Sentinel](https://github.com/whozdae/home-soc-azure-sentinel) |
-| Malware Analysis and Reverse Engineering      | [FlareVM Malware Analysis](https://github.com/whozdae/flarevm-malware-analysis) |
-
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3# Hello, I'm Alex Adewoyin
-<a href="https://www.linkedin.com/in/alexadewoyin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-**I’m a cybersecurity professional building hands-on projects that showcase skills in threat detection, incident response, IAM, and vulnerability management. My portfolio highlights practical labs and tools that demonstrate my ability to secure systems, analyze risks, and communicate technical solutions clearly.**
-
-
-
-# Objective
-
-Motivated cybersecurity professional seeking to leverage hands-on experience in SOC operations, IAM, and threat analysis to help organizations strengthen their security posture and respond to evolving threats
-
-
-## Skills
 
 - **Identity and Access Management (IAM):** [AWS IAM Lab](https://github.com/whozdae/AWS-IAM-)  
 - **Scripting and Automation:** [APK with Discord Webhook](https://github.com/whozdae/APK-w-Discord-Webhook)
@@ -87,5 +59,6 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 - [Home Virtual Enterprise](https://github.com/whozdae/home-virtual-enterprise) 
 - [Home SOC in Azure](https://github.com/whozdae/Home-SOC-in-Azure) 
 - [FlareVM Malware Analysis](https://github.com/whozdae/flarevm-malware-analysis)  
+
 
   
