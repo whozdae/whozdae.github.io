@@ -26,7 +26,7 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-</div>
+<div>
 
 ### Endpoint
 <div>
@@ -54,8 +54,9 @@ Motivated cybersecurity professional seeking to leverage hands-on experience in 
     
 ### Projects
 
-- AWS IAM Lab
-- Python Keylogger
-- Home Virtual Enterprise
-- Home SOC with Azure Sentinel
-- FlareVM Malware Analysis
+- [AWS IAM Lab](https://github.com/whozdae/AWS-IAM-)
+- [APK with Discord Webhook](https://github.com/whozdae/APK-w-Discord-Webhook)
+- [Home Virtual Enterprise](https://github.com/whozdae/home-virtual-enterprise) 
+- [Home SOC in Azure](https://github.com/whozdae/Home-SOC-in-Azure) 
+- [FlareVM Malware Analysis](https://github.com/whozdae/flarevm-malware-analysis)  
+
